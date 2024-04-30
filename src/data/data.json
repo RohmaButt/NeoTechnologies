@@ -1,66 +1,66 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Neo Computers",
+    "paragraph": "Welcome to Neo Computers, your one-stop destination for cutting-edge electronics.Explore our extensive range of computers, laptops, iPads, and more, meticulously curated to meet your technical needs"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Neo Computers, we're more than just a retailer – we're tech enthusiasts dedicated to enhancing your digital experience. Founded with a passion for innovation, we strive to provide top-tier electronics that empower and inspire. Our commitment to excellence drives us to constantly expand our product offerings, ensuring you have access to the latest advancements in technology",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Extensive Selection",
+      "Quality Assurance",
+      "Expert Guidance",
+      "Competitive Pricing"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Customer Satisfaction",
+      "Innovation Focus",
+      "Convenience",
+      "Community Engagement"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Keyboards",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Laptops",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "IPads",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Projectors",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Tablets",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Mobile Phones",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Accessories",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Monitors",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Screens",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -68,92 +68,92 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Expert Consultation",
+      "text": "Receive personalized guidance from our knowledgeable staff to help you find the perfect tech solution for your needs."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Repair & Maintenance",
+      "text": "Trust our skilled technicians to diagnose, repair, and maintain your devices to keep them running smoothly."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Customization Options",
+      "text": "Tailor your computing experience with our custom-built solutions, designed to meet your specific requirements."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Trade-In Program",
+      "text": "Upgrade to the latest technology by trading in your old devices for credit towards new purchases."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Warranty Coverage",
+      "text": "Enjoy peace of mind with our comprehensive warranty options, providing protection for your electronics against unforeseen issues."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Technical Support",
+      "text": "Access our dedicated support team for assistance with setup, troubleshooting, and any technical queries you may have."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Neo Computers exceeded my expectations! Their prompt delivery and excellent customer service made my shopping experience truly exceptional.",
+      "name": "David R."
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "I've been a loyal customer of Neo Computers for years. Their diverse product range and competitive prices keep me coming back every time I need to upgrade my tech.",
+      "name": "Sarah L."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I couldn't be happier with my purchase from Neo Computers. The quality of the product surpassed my expectations, and their helpful staff made the whole process smooth and hassle-free.",
+      "name": "Jason M."
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Neo Computers is my go-to destination for all things tech. Their knowledgeable team always guides me towards the best options, and their after-sales support is unmatched.",
+      "name": "Jessica H."
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Impressed with the speed of delivery and the condition of the product upon arrival. Neo Computers definitely sets the standard for online electronics retailers.",
+      "name": "Michael W."
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Neo Computers doesn't just sell electronics; they provide an experience. From browsing their website to receiving my order, every step was seamless and enjoyable.",
+      "name": "Emily S."
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "John David",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Mike Joe",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Killie Dane",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Karen David",
       "job": "Project Manager"
     }
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "phone": "+92 314 1624049",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Diverse Product Range",
+      "text": "From high-performance gaming computers to sleek and portable laptops, we offer comprehensive selection to cater user's needs."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Cutting-Edge Technology",
+      "text": "Explore latest innovations with our electronics range, ensuring you stay ahead of curve in an ever-evolving digital landscape."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Exceptional Service",
+      "text": "With a dedicated team of experts ready to assist you, expect nothing but best in customer support and satisfaction with us."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "User-Friendly Interface",
+      "text": "Our intuitive online platform makes browsing and purchasing a breeze, providing a seamless shopping experience from start to finish."
     }
   ]
 }
