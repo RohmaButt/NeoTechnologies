@@ -160,9 +160,9 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2022 Neo Computers. Design by
-            <a href="http://www.AlphaTech.com" rel="nofollow">
+            <a href="http://www.alphatechlogics.com" rel="nofollow">
               {" "}
-              AlphaTech
+              AlphaTechLogics
             </a>
           </p>
         </div>
